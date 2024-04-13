@@ -7,6 +7,10 @@ A random list of keyboard shortcuts for different applications.
 
 * Open file on right side - `cmd \` 
 
+* Switch focus between editors (ordered by number) - `cmd <number>`
+
+* Switch tab within an editor (ordered by number) - `ctrl <number>`
+  
 * Toggles right editor(s) between horizontal/vertical mode (must have more than 1 open) - `cmd option 0`
 
 * Search for files to open (opens in focused editor if have multiple open) - `cmd p`
@@ -17,4 +21,13 @@ A random list of keyboard shortcuts for different applications.
 
 * Switch between tabs in focused window - `ctrl tab`
 
-* Switch tab to that number - `ctrl <number>`
+
+
+## Chrome
+
+* Place focus on **address bar** - `cmd l`
+
+* Navigate backward/forward - `cmd <left arrow>/<right arrow>`
+
+* Change tab backward/forward `cmd option <left arrow>/<right arrow>`
+
