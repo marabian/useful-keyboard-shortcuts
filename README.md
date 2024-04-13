@@ -90,7 +90,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 * Three finger swipe-up (custom keybinding) - `option s`
 
 * *Recantgle*
-  - Maximize - `ctrl option backspace`
+  - Maximize - `ctrl option return`
+  - Shrink window - `ctrl option backspace`
   - Move to left/right side - `ctrl option <left arrow>/<right arrow>`
   - Move to left 1/3 - `ctrl option d`
   - Move to middle 1/3 - `ctrl option f`
