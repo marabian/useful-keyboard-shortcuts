@@ -109,7 +109,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Open ChatGPT - `chat`
   - Query Google Translate - `translate <query>`
   - Open **clipboard history** (also configured to show [snippets](https://www.alfredapp.com/help/features/snippets/)) - `option cmd c`
-  - Open **Useful Commands** Google Doc file - `useful`
+  - Open **Useful Commands** Google Doc file - `use`
+  - Open **useful-keyboard-shortcuts** GitHub page - `short`
 
 ## Vim
 
