@@ -21,6 +21,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Switch between tabs in focused window - `ctrl tab`
 
+* Open **Command Palette** - `cmd shift p`
 
 
 ## Chrome
