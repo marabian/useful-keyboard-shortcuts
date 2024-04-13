@@ -87,7 +87,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Move to last 2/3 - `ctrl option t`
   - Move to first 2/3 - `ctrl option e`
 
-* Alfred
+* *Alfred*
   - Alfred Hotkey - `cmd space`
   - Search on YouTube - `yt <query>`
   - Search on Google - `g <query>`
