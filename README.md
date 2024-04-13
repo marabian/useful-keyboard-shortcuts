@@ -112,6 +112,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Open **clipboard history** (also configured to show [snippets](https://www.alfredapp.com/help/features/snippets/)) - `option cmd c`
   - Open **Useful Commands** Google Doc file - `use`
   - Open **useful-keyboard-shortcuts** GitHub page - `short`
+  - Run command in terminal (customized to launch new iTerm2 tab) - `> <command>`
 
 ## Vim
 
