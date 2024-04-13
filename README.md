@@ -38,9 +38,10 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Toggle bookmark bar - `cmd shift b`
 
-* Bookmark current page - `cmd d`
+* Bookmark current tab - `cmd d`
 
-* 
+* Bookmark all tabs - `cmd shift d`
+
 ## MacOS
 
 * Delete prevous word - `option backspace`
@@ -72,3 +73,4 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - `db` deletes current to beginning of current word
   - Read [this](https://vimdoc.sourceforge.net/htmldoc/motion.html#motion.txt) to learn all the things you can combine with the 'd' command.
 
+* Global search and replace - `:%s/old/new/g`
