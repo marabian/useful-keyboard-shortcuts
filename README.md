@@ -29,6 +29,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Place **multiple cursors** - `option click` (press escape to cancel)
 
+* Open new editor (but without any file opened). The *number* must be +1 current number of editors opened - `cmd <number>`
+
 ## Chrome
 
 * Open **Bookmark Manager** - `cmd option b`
