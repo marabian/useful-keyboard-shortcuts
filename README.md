@@ -35,6 +35,11 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Delete prevous word - `option backspace`
 
+* Delete everything before cursor - `cmd backsapce`
+
+* Forward character delete - `FN backspace`
+
+
 * *Recantgle*
   - Maximize - `ctrl option backspace`
   - Move to left/right side - `ctrl option <left arrow>/<right arrow>`
