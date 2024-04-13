@@ -51,7 +51,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
  
 * Place focus on **address bar** - `cmd l`
 
-* Navigate backward/forward - `cmd <left arrow>/<right arrow>`
+* Navigate backward/forward - `cmd [` and `cmd ]` or `cmd <left arrow>/<right arrow>`
 
 * Change tab backward/forward `cmd option <left arrow>/<right arrow>`
 
