@@ -1,4 +1,4 @@
-# keyboard-shortcuts
+# useful-keyboard-shortcuts
 A random list of keyboard shortcuts for different applications.
 
 ## Visual Studio Code
@@ -34,6 +34,15 @@ A random list of keyboard shortcuts for different applications.
 ## MacOS
 
 * Delete prevous word - `option backspace`
+
+* *Recantgle*
+  - Maximize - `ctrl option backspace`
+  - Move to left/right side - `ctrl option <left arrow>/<right arrow>`
+  - Move to left 1/3 - `ctrl option d`
+  - Move to middle 1/3 - `ctrl option f`
+  - Move to right 1/3 - `ctr option g`
+  - Move to last 2/3 - `ctrl option t`
+  - Move to first 2/3 - `ctrl option e`
 
 ## Vim
 
