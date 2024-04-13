@@ -61,4 +61,5 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - `d0` will delete from current backward to beginning of line
   - `dw` deletes current to end of current word (including trailing space)
   - `db` deletes current to beginning of current word
+  - Read [this](https://vimdoc.sourceforge.net/htmldoc/motion.html#motion.txt) to learn all the things you can combine with the 'd' command.
 
