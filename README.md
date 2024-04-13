@@ -113,6 +113,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Open **Useful Commands** Google Doc file - `use`
   - Open **useful-keyboard-shortcuts** GitHub page - `short`
   - Run command in terminal (customized to launch new iTerm2 tab) - `> <command>`
+  - Define word - `define <word>`
+  - Spell word (autocomplete) - `spell <word>`
 
 ## Vim
 
