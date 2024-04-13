@@ -77,7 +77,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Open **Settings** - `cmd ,` (works in most MacOS apps)
 
-# Open **Print** - `cmd p`
+* Open **Print** - `cmd p`
 
 ## MacOS
 
