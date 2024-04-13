@@ -31,3 +31,18 @@ A random list of keyboard shortcuts for different applications.
 
 * Change tab backward/forward `cmd option <left arrow>/<right arrow>`
 
+## MacOS
+
+* Delete prevous word - `option backspace`
+
+## Vim
+
+* In general, d<motion> will delete from current position to ending position after <motion>. This means that:
+
+  - `d<leftArrow>` will delete current and left character
+  - `d$` will delete from current position to end of line
+  - `d^` will delete from current backward to first non-white-space character
+  - `d0` will delete from current backward to beginning of line
+  - `dw` deletes current to end of current word (including trailing space)
+  - `db` deletes current to beginning of current word
+
