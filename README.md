@@ -5,7 +5,7 @@ A random list of keyboard shortcuts for different applications.
 
 Open file on right side - `cmd \` 
 
-cmd option 0 -> if you have right window open, toggles it between horizontal/vertical mode
+toggles right editor(s) between horizontal/vertical mode (must have more than 1 open) - `cmd option 0` 
 
 cmd p -> search for files to open (opens in focused editor if have multiple open)
 
