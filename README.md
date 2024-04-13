@@ -3,7 +3,7 @@ A random list of keyboard shortcuts for different applications.
 
 ## Visual Studio Code
 
-opens file on right side - `cmd \` 
+Open file on right side - `cmd \` 
 
 cmd option 0 -> if you have right window open, toggles it between horizontal/vertical mode
 
