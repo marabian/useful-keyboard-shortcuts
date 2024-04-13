@@ -80,6 +80,15 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Move to last 2/3 - `ctrl option t`
   - Move to first 2/3 - `ctrl option e`
 
+* Alfred
+  - Alfred Hotkey - `cmd space`
+  - Search on YouTube - `yt <query>`
+  - Search on Google - `g <query>`
+  - Search on Gmail - `gmail <query`
+  - Open ChatGPT - `chat`
+  - Open **clipboard history** (also configured to show [snippets](https://www.alfredapp.com/help/features/snippets/)) - `option cmd c`
+  - 
+
 ## Vim
 
 * In general, d<motion> will delete from current position to ending position after <motion>. This means that:
