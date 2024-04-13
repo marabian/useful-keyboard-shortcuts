@@ -56,6 +56,9 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Opens last tab (or window) you closed - `cmd shift t`
 
+* Search all files in workspace for text - `cmd shift f`
+
+* Search current file for text - `cmd f` 
 
 ## MacOS
 
