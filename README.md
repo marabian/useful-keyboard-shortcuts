@@ -102,10 +102,12 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Alfred Hotkey - `cmd space`
   - Search on YouTube - `yt <query>`
   - Search on Google - `g <query>`
-  - Search on Gmail - `gmail <query`
   - Search on Google Drive - `dr <query>`
-  - Open Google Drive `dr`
+  - Open Google Drive - `dr`
+  - Open Gmail Inbox `gm`
+  - Open my GitHub repos - `gh`
   - Open ChatGPT - `chat`
+  - Query Google Translate - `translate <query>`
   - Open **clipboard history** (also configured to show [snippets](https://www.alfredapp.com/help/features/snippets/)) - `option cmd c`
   - Open **Useful Commands** Google Doc file - `useful`
 
