@@ -26,12 +26,21 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 ## Chrome
 
+* Open **Bookmark Manager** - `cmd option b`
+
+* Open **Downloads** - `cmd option l`
+ 
 * Place focus on **address bar** - `cmd l`
 
 * Navigate backward/forward - `cmd <left arrow>/<right arrow>`
 
 * Change tab backward/forward `cmd option <left arrow>/<right arrow>`
 
+* Toggle bookmark bar - `cmd shift b`
+
+* Bookmark current page - `cmd d`
+
+* 
 ## MacOS
 
 * Delete prevous word - `option backspace`
