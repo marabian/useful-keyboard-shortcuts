@@ -13,6 +13,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
   
 * Toggles right editor(s) between horizontal/vertical mode (must have more than 1 open) - `cmd option 0`
 
+* Switch tab forward/backward - `cmd option <right arrow>/<left arrow>`
+
 * Search for files to open (opens in focused editor if have multiple open) - `cmd p`
 
 * Moves the currently editor left/right - `cmd k <left arrow>/<right arrow>`
@@ -22,6 +24,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 * Switch between tabs in focused window - `ctrl tab`
 
 * Open **Command Palette** - `cmd shift p`
+
+* **Rename variable** in file - click on xvariable then press `f2`
 
 * Place **multiple cursors** - `option click` (press escape to cancel)
 ## Chrome
