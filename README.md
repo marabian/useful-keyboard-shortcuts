@@ -35,6 +35,9 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Find a symbol (e.g. function name) across project - `# <symbol name> in Command Palette` (also e.g. type "NAR" to find "NextApiRequest", useful for long class names, works for all camel cased words).
 
+* **Go to Symbol in File** - `cmd shift o`
+
+* Show All Commands - `cmd shift p`
 
 ## Chrome
 
