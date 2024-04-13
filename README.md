@@ -31,6 +31,10 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Open new editor (but without any file opened). The *number* must be +1 current number of editors opened - `cmd <number>`
 
+* List out every symbol in the code - `@ in Command Palette` or `control shift .` (this view is better)
+
+* Find a symbol (e.g. function name) throughout project - `# <symbol name> in Command Palette` (also e.g. type "NAR" to find "NextApiRequest", useful for long class names).
+
 ## Chrome
 
 * Open **Bookmark Manager** - `cmd option b`
