@@ -15,4 +15,6 @@ A random list of keyboard shortcuts for different applications.
 
 * Open file in "keep it open" mode - `double click on a file file in sidebar`
 
-* Switch between tabs in focused window - `ctr + tab`
+* Switch between tabs in focused window - `ctrl tab`
+
+* Switch tab to that number - `ctrl <number>`
