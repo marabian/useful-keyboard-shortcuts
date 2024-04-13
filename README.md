@@ -23,7 +23,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Open **Command Palette** - `cmd shift p`
 
-
+* Place **multiple cursors** - `option click` (press escape to cancel)
 ## Chrome
 
 * Open **Bookmark Manager** - `cmd option b`
@@ -41,6 +41,17 @@ A random list of useful keyboard shortcuts for different applications/operating 
 * Bookmark current tab - `cmd d`
 
 * Bookmark all tabs - `cmd shift d`
+
+* Navigate to next tab - `ctrl tab` or `option cmd <right arrow>`
+
+* Navigate to previous tab - `ctrl shift tab` or `option cmd <left arrow>`
+
+* Close current tab - `cmd w`
+
+* Close all tabs in window - `cmd shift w`
+
+* Opens last tab (or window) you closed - `cmd shift t`
+
 
 ## MacOS
 
