@@ -25,7 +25,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Open **Command Palette** - `cmd shift p`
 
-* **Rename variable** in file - click on xvariable then press `f2`
+* **Rename variable** in file - `click on a variable then press `f2`
 
 * Place **multiple cursors** - `option click` (press escape to cancel)
 ## Chrome
