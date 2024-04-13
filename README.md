@@ -75,6 +75,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Search current file for text - `cmd f` 
 
+* Open **Settings** - `cmd ,` (works in most MacOS apps)
+
 ## MacOS
 
 * Delete prevous word - `option backspace`
