@@ -19,7 +19,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Moves the currently editor left/right - `cmd k <left arrow>/<right arrow>`
 
-* Open file in "keep it open" mode - `double click on a file file in sidebar`
+* Open file in "keep it open" mode - `double click on a file in sidebar`
 
 * Switch between tabs in focused window - `ctrl tab`
 
