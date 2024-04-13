@@ -1,5 +1,5 @@
 # useful-keyboard-shortcuts
-A random list of keyboard shortcuts for different applications.
+A random list of useful keyboard shortcuts for different applications/operating systems.
 
 ## Visual Studio Code
 
