@@ -3,18 +3,16 @@ A random list of keyboard shortcuts for different applications.
 
 ## Visual Studio Code
 
-Open file on right side - `cmd \` 
+* Toggle sidebar - `cmd b`
 
-toggles right editor(s) between horizontal/vertical mode (must have more than 1 open) - `cmd option 0` 
+* Open file on right side - `cmd \` 
 
-cmd p -> search for files to open (opens in focused editor if have multiple open)
+* Toggles right editor(s) between horizontal/vertical mode (must have more than 1 open) - `cmd option 0`
 
-cmd k <left arrow>/<right arrow> -> moves the currently editor left/right
+* Search for files to open (opens in focused editor if have multiple open) - `cmd p`
 
-double click file in sidebar -> open file in "keep it open" mode
+* Moves the currently editor left/right - `cmd k <left arrow>/<right arrow>`
 
+* Open file in "keep it open" mode - `double click on a file file in sidebar`
 
-
-cmd b -> toggle sidebar
-
-ctr + tab -> switch between tabs in focused window
+* Switch between tabs in focused window - `ctr + tab`
