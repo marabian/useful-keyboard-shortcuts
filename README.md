@@ -39,6 +39,10 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Show All Commands - `cmd shift p`
 
+* Quick Fix - `cmd .`
+
+* Open a new window - `cmd shift n`
+
 ## Chrome
 
 * Open **Bookmark Manager** - `cmd option b`
