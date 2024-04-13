@@ -39,6 +39,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Forward character delete - `FN backspace`
 
+* Three finger swipe-up (custom keybinding) - `option s`
 
 * *Recantgle*
   - Maximize - `ctrl option backspace`
