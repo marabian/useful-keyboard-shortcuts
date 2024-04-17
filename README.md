@@ -129,3 +129,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Read [this](https://vimdoc.sourceforge.net/htmldoc/motion.html#motion.txt) to learn all the things you can combine with the 'd' command.
 
 * Global search and replace - `:%s/old/new/g`
+
+
+## Slack
+
+* Open **Quick switcher** - `Cmd + k`
