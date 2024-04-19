@@ -108,9 +108,10 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Open Gmail Inbox `gm`
   - Open my GitHub repos - `gh`
   - Open ChatGPT - `chat`
+  - Open Claude - `claude`
   - Query Google Translate - `translate <query>`
   - Open **clipboard history** (also configured to show [snippets](https://www.alfredapp.com/help/features/snippets/)) - `option cmd c`
-  - Open **Useful Commands** Google Doc file - `use`
+  - Open **Useful Commands** Google Doc file - `commands`
   - Open **useful-keyboard-shortcuts** GitHub page - `short`
   - Run command in terminal (customized to launch new iTerm2 tab) - `> <command>`
   - Define word - `define <word>`
