@@ -1,6 +1,11 @@
 # useful-keyboard-shortcuts
 A random list of useful keyboard shortcuts for different applications/operating systems.
 
+## Table of Content
+- [Visual Studio Code](#visual-studio-code)
+- [Chrome](#chrome)
+- [Macos](#macos)
+
 ## Visual Studio Code
 
 * Toggle sidebar - `cmd b`
