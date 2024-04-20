@@ -7,7 +7,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 - [Macos](#macos)
   - [Rectangle](#rectangle)
   - [Alfred](#alfred)
-- [Vim](#vim) 
+- [Vim](#vim)
+- [Slack](#slack)
 
 ## Visual Studio Code
 
