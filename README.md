@@ -4,7 +4,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
 ## Table of Content
 - [Visual Studio Code](#visual-studio-code)
 - [Chrome](#chrome)
-- [Macos](#macos)
+- [MacOS](#macos)
   - [Rectangle](#rectangle)
   - [Alfred](#alfred)
 - [Vim](#vim)
