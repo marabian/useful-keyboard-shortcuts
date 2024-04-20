@@ -5,6 +5,9 @@ A random list of useful keyboard shortcuts for different applications/operating 
 - [Visual Studio Code](#visual-studio-code)
 - [Chrome](#chrome)
 - [Macos](#macos)
+  - [Rectangle](#rectangle)
+  - [Alfred](#alfred)
+- [Vim](#vim) 
 
 ## Visual Studio Code
 
@@ -104,7 +107,7 @@ A random list of useful keyboard shortcuts for different applications/operating 
   - Move to last 2/3 - `ctrl option t`
   - Move to first 2/3 - `ctrl option e`
 
-* *Alfred*
+* ### Alfred
   - Alfred Hotkey - `cmd space`
   - Search on YouTube - `yt <query>`
   - Search on Google - `g <query>`
