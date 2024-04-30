@@ -88,6 +88,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 * Open **Print** - `cmd p`
 
+* Search tabs - `cmd shift a`
+
 ## MacOS
 
 * Delete prevous word - `option backspace`
