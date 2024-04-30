@@ -12,6 +12,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 ## Visual Studio Code
 
+* Search all files in workspace for text - `cmd shift f`
+
 * Toggle sidebar - `cmd b`
 
 * Open file on right side - `cmd \` 
@@ -79,8 +81,6 @@ A random list of useful keyboard shortcuts for different applications/operating 
 * Close all tabs in window - `cmd shift w`
 
 * Opens last tab (or window) you closed - `cmd shift t`
-
-* Search all files in workspace for text - `cmd shift f`
 
 * Search current file for text - `cmd f` 
 
