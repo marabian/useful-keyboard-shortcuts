@@ -92,6 +92,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 ## MacOS
 
+* Show/hide hidden files and folders in finder - `cmd shift .`
+
 * Delete prevous word - `option backspace`
 
 * Delete everything before cursor - `cmd backsapce`
