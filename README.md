@@ -92,6 +92,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 ## MacOS
 
+* Go back/forward one word at a time when typing - `option right/left arrow`
+
 * Show/hide hidden files and folders in finder - `cmd shift .`
 
 * Delete prevous word - `option backspace`
