@@ -56,6 +56,8 @@ A random list of useful keyboard shortcuts for different applications/operating 
 
 ## Chrome
 
+* Delete autosuggested result in search bar - `shift fn delete`
+
 * Open **Bookmark Manager** - `cmd option b`
 
 * Open **Downloads** - `cmd option l`
